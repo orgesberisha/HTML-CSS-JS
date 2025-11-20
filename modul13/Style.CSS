@@ -1,0 +1,22 @@
+ul{
+    list-style-type: none;
+    padding: 15px 25px;
+    border-left: 8px solid blue;
+    background-color: gold;
+    color: red;
+}
+ul li{
+padding: 8px;
+border-bottom: 5px solid gray;
+}
+ol{
+    list-style-type:upper-roman;
+    background: rebeccapurple;
+}
+ol li{
+   background-color: red;
+   padding: 4px;
+   margin: 5px;
+   
+
+}
