@@ -1,0 +1,36 @@
+article p{
+    background: red;
+    color: blue;
+    padding: 20px;
+}
+article div p{
+    background: gold;
+    color: brown;
+    padding: 20px;
+}
+
+article>p{
+    background: bisque;
+    color:olive ;
+    padding: 20px;
+}
+article~p{
+    background: rebeccapurple;
+    color: orange;
+    padding: 20px;
+}
+article +p{
+    background: olivedrab;
+}
+input:in-range{
+    border: 2px solid green;
+}
+input:out-of-range{
+    border: 2px solid red;
+}
+main p:first-child{
+    background-color: blue;
+}
+a:hover{
+    background: rebeccapurple;
+}
