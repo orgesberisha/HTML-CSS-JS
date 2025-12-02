@@ -23,3 +23,54 @@ margin-top: 100px;
 top: 100px;
 right: 150px;
 }
+#parnets{
+    position: relative;
+border: 3px solid black;
+width: 250px;
+height: 250px;
+}
+#child{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    right: 100px;
+    top: 100px;
+    background-color: blue;
+}
+#horizontal ul {
+    list-style-type: none;
+    background: yellow;
+    margin-bottom: 100px;
+    padding: 20px;
+    overflow: hidden;
+}
+#horizontal ul li{
+    float: left;
+}
+#horizontal ul li a{
+    background-color: yellow;
+    margin: 50px;
+    padding: 20px;
+}
+#horizontal ul li a:hover{
+    background-color: rgb(35, 194, 30);
+  
+}
+    #vertical ul {
+    list-style-type: none;
+    background: yellow;
+    margin-bottom: 100px;
+    padding: 20px;
+}
+#vertical ul li{
+   padding: 20px;
+ }  
+ #vertical ul li a{
+    background-color: yellow;
+    margin: 50px;
+    padding: 20px;
+}
+#vertical ul li a:hover{
+    background-color: rgb(35, 194, 30);
+  
+}
