@@ -1,0 +1,47 @@
+header{
+    background-color: darkviolet;
+    color: white;
+    height: 650px;
+}
+#cuba{
+    padding-left:100px ;
+padding-top: 20px;
+display: inline-block;
+}
+#home{
+    display: block;
+    float: right;
+    margin-right:150px ;
+    margin-top:50px ;
+    padding: 10px;
+}
+#text{
+    text-align: center;
+    padding: 50px;
+    width: 50px;
+    margin-left: 600px;
+}
+#button{
+    display: block;
+    margin: auto;
+    margin-top: 80px;
+    padding: 10px;
+    background-color: orange;
+    width: 300px;
+    height: 70px;
+    border: none;
+    border-radius: 10px;
+}
+
+
+main{
+    background-color: rgb(43, 255, 0);
+    margin-bottom:100px;
+    padding: 100px;
+}
+#services{
+    text-align:center ;
+    padding-top:50px ;
+    color: white;
+    font-size: 30px;
+}
