@@ -18,11 +18,10 @@ display: inline-block;
 #text{
     text-align: center;
     padding: 50px;
-    width: 50px;
-    margin-left: 600px;
+    
 }
 #button{
-    display: block;
+     display: block;
     margin: auto;
     margin-top: 80px;
     padding: 10px;
